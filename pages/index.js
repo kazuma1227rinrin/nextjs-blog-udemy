@@ -39,7 +39,7 @@ export default function Home({allPostsData}) {
     </Head>
     <Layout home>
       <section className={utilStyle.headingMd}>
-        <p>どうもkzmです。よろしくお願いします。</p>
+        <p>イエーイ！見てる〜？？</p>
       </section>
 
       <section>
